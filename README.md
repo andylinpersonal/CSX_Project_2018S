@@ -8,7 +8,7 @@
     - [Google Presentation](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/final_project/提案連結.md)  
     - [Test Script](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/final_project/hw_week4_分群.ipynb)  
 * Topic
-    - 關於如何利用既有的91APP資料集，推估各種可能影響客群流動的因素。  
+    - 關於如何利用既有的91APP資料集，推估各種可能影響客群隨時間變化的因素。  
     - 隨時更新中
 ---
 ### Project 1
@@ -30,7 +30,7 @@
         
     * TODOS and Problems
         * __pandas plot Unicode 出現亂碼__ 
-            * solve: http://blog.csdn.net/u012705410/article/details/47379957
+            * [solve](http://blog.csdn.net/u012705410/article/details/47379957)  
                 * TODO:
                 * font_path = C:\\Windows\Fonts\msjh.ttc | msgothic.ttc
     * Further
