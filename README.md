@@ -49,7 +49,10 @@
 ---
 ### Project 2
     * Link
-        * 
+        * Script
+            * https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_2/Titanic_Test.ipynb
+        * Result
+            * https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_2/solved.csv
     * Topic
         * 運用各種機器學習的方法，由已有的資料集預測鐵達尼號船難的存活率
 ---
