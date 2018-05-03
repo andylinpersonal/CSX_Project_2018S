@@ -1,7 +1,15 @@
 # Readme about this Repo
     Class: Notes for CSX 5001 in NTU
     Author: 林永祥
-    
+
+---
+### Proposal
+* Link  
+    - [Google Presentation](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/final_project/提案連結.md)  
+    - [Test Script](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/final_project/hw_week4_分群.ipynb)  
+* Topic
+    - 關於如何利用既有的91APP資料集，推估各種可能影響客群流動的因素。  
+    - 隨時更新中
 ---
 ### Project 1
     * Link
@@ -14,6 +22,7 @@
 * Links  
     - [Jupyter Notebook](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_2/Titanic_Test.ipynb)  
     - [Result](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_2/solved.csv)  
+---
 ### Week 1
     * Link
     
@@ -46,11 +55,6 @@
 ### Week 5
     * Link
     * Topic
----
-### Proposal
-    * Link
-    * Topic
-    *
 ---
 ### Week 9
     * Link
