@@ -47,8 +47,11 @@
     * Link
     * Topic
 ---
-### Week 8
+### Project 2
     * Link
+        * 
+    * Topic
+        * 運用各種機器學習的方法，由已有的資料集預測鐵達尼號船難的存活率
 ---
 ### Week 9
     * Link
