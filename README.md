@@ -2,9 +2,18 @@
     Class: Notes for CSX 5001 in NTU
     Author: 林永祥
     
-## Tasks
 ---
+### Project 1
+    * Link
+    * Topic
 ---
+### Project 2
+* Topic
+    - 運用各種機器學習的方法，由已有的資料集預測鐵達尼號船難的存活率  
+    - 修改中  
+* Links  
+    - [Jupyter Notebook](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_2/Titanic_Test.ipynb)  
+    - [Result](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_2/solved.csv)  
 ### Week 1
     * Link
     
@@ -42,18 +51,6 @@
     * Link
     * Topic
     *
----
-### Project 1
-    * Link
-    * Topic
----
-### Project 2
-* Topic
-    - 運用各種機器學習的方法，由已有的資料集預測鐵達尼號船難的存活率  
-    - 修改中  
-* Links  
-    - [Jupyter Notebook](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_2/Titanic_Test.ipynb)  
-    - [Result](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_2/solved.csv)  
 ---
 ### Week 9
     * Link
