@@ -1,6 +1,7 @@
 # Readme about this Repo
-    Class: Notes for CSX 5001 in NTU
-    Author: 林永祥
+* Class: Notes for CSX 5001 in NTU 
+* Author: 林永祥 
+* Latest Update: 2018-05-24 
 
 ---
 ### Proposal
@@ -11,9 +12,11 @@
     - 關於如何利用既有的91APP資料集，推估各種可能影響客群隨時間變化的因素。  
     - 隨時更新中
 ---
-### Project 1
-    * Link
-    * Topic
+### Project 1 
+* Link 
+    - DUMMY
+* Topic 
+    - DUMMY
 ---
 ### Project 2
 * Topic
@@ -24,37 +27,35 @@
     - [Result](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_2/solved.csv)  
 ---
 ### Week 1
-    * Link
-    
-    * Topic
-        
-    * TODOS and Problems
-        * __pandas plot Unicode 出現亂碼__ 
-            * [solve](http://blog.csdn.net/u012705410/article/details/47379957)  
-                * TODO:
-                * font_path = C:\\Windows\Fonts\msjh.ttc | msgothic.ttc
-    * Further
+* Link 
+
+* Topic 
+    - 簡易作圖
+* TODOS and Problems 
+    * __pandas plot Unicode 出現亂碼__ 
+        * [Solve](http://blog.csdn.net/u012705410/article/details/47379957)  
+            * TODO:
+            * font_path = C:\\Windows\Fonts\msjh.ttc | msgothic.ttc
+* Further
 ---
-### Week 2
-    * Link
-    * Topic
-        * Crawler
-            
-    * TODOS and Problems
+### Week 2 
+* Link 
+* Topic 
+    - Crawler 
         
-    * Further
+* TODOS and Problems 
+    - Much messy infomation is included. 
+* Further 
 ---
-### Week 3
-    * Link
-    * Topic
+### Week 3 
+* Link 
+* Topic 
 ---
 ### Week 4    
-    * Link
-    * Topic
+* Link 
+* Topic 
 ---
 ### Week 5
-    * Link
-    * Topic
----
-### Week 9
-    * Link
+* Link 
+* Topic 
+    
