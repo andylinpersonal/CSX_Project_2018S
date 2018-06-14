@@ -1,0 +1,16 @@
+RESULT:
+	Dropout:	0.100
+	epochs:		5000
+	Accuracy:	70.550162 %
+RESULT:
+	Dropout:	0.300
+	epochs:		5000
+	Accuracy:	73.462783 %RESULT:
+	Dropout:	0.500
+	epochs:		5000
+	Accuracy:	72.815534 %
+RESULT:
+	Dropout:	0.350
+	epochs:		5000
+	learning_rate:	0.03
+	Accuracy:	73.462783 %
