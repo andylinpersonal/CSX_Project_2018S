@@ -5,7 +5,8 @@ RESULT:
 RESULT:
 	Dropout:	0.300
 	epochs:		5000
-	Accuracy:	73.462783 %RESULT:
+	Accuracy:	73.462783 %
+RESULT:
 	Dropout:	0.500
 	epochs:		5000
 	Accuracy:	72.815534 %
@@ -16,5 +17,36 @@ RESULT:
 	Accuracy:	73.462783 %
 RESULT:
 	Dropout:	0.350
-	epochs:		5000learning_rate:	0.030000
+	epochs:		5000
+	learning_rate:	0.030000
 	Accuracy:	67.961165 %
+RESULT:
+	Dropout:	0.350
+	epochs:		3000
+	learning_rate:	0.003000
+	Accuracy:	75.080906 %
+RESULT:
+	Dropout:	0.500
+	epochs:		3000
+	learning_rate:	0.003000
+	Accuracy:	74.757282 %
+RESULT:
+	Dropout:	0.500
+	epochs:		3000
+	learning_rate:	0.003000
+	Accuracy:	75.080906 %
+RESULT:
+	Dropout:	0.500
+	epochs:
+	3000learning_rate:	0.003000
+	Accuracy:	75.080906 %
+RESULT:
+	Dropout:	0.500
+	epochs:
+	3000learning_rate:	0.003000
+	Accuracy:	74.110032 %
+RESULT:
+	Dropout:	0.500
+	epochs:
+	3000learning_rate:	0.003000
+	Accuracy:	75.404531 %
