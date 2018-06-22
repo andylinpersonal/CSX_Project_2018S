@@ -14,3 +14,7 @@ RESULT:
 	epochs:		5000
 	learning_rate:	0.03
 	Accuracy:	73.462783 %
+RESULT:
+	Dropout:	0.350
+	epochs:		5000learning_rate:	0.030000
+	Accuracy:	67.961165 %
