@@ -34,7 +34,7 @@
 * Topic:
   * Do regression & ANOVA of the dataset
 * Links:
-  * [Notebook](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_3/AQIAnalyze.ipynb)
+  * [Notebook](https://github.com/andylinpersonal/CSX_Project_2018S/blob/master/proj_3/AQIAnalysis.ipynb)
 
 ## Project 4
 
